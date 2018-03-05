@@ -1,4 +1,3 @@
-//run at turbo c
 #include <stdio.h>
 #include<string.h>
 int main(void)                
@@ -9,13 +8,13 @@ int main(void)
 	gets(c);
 	for(i=0;i<=strlen(c);i++)
 	{
-	if(c[i]]=='')
+	if(c[i]]==' ')
 	{
 
 	}
 	else
 	{
-	printf("%s",c);
+	printf("%c",c[i]);
 	}
 }
 	
