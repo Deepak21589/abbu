@@ -14,3 +14,5 @@ b=g-b;
 printf("\nAftr swap%d %d",a,b);
 	return 0;
 }
+
+	
